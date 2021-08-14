@@ -4,7 +4,7 @@
 
 WhiteCode is an AI Chatbot created with Python, this chatbot was my first real project i made with python and it's on standby, it has integrated voice, this AI software basically will ask you some questions so he can learn from those answers, also it has functions for searching on google, wikipedia or even youtube, my goal is to take this AI and merge the software of RoboStoa with WhiteCode and then have a complete AI Robot.
 
-![](https://raw.githubusercontent.com/jorgeeldis/WhiteCode/main/header.png)
+![header](https://user-images.githubusercontent.com/73083341/129433523-8e9fb333-faaa-4f23-b7ad-7d1cb02764d3.png)
 
 ## Development setup
 
