@@ -8,17 +8,17 @@ WhiteCode is an AI Chatbot created with Python, this chatbot was my first real p
 
 ## Development setup
 
-pip install beepy
-pip install random
-pip install webbrowser
-pip install os
-pip install time
-pip install urllib.request
-pip install urllib.parse
-pip install re
-pip install pyttsx3
-pip install datetime
-pip install wikipedia
+pip install beepy <br/>
+pip install random <br/>
+pip install webbrowser <br/>
+pip install os <br/>
+pip install time <br/>
+pip install urllib.request <br/>
+pip install urllib.parse <br/>
+pip install re <br/>
+pip install pyttsx3 <br/>
+pip install datetime <br/>
+pip install wikipedia <br/>
 
 ## Meta
 
