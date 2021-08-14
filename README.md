@@ -1,14 +1,24 @@
-# Math Maniac
+# WhiteCode
 
-> Math Maniac is a game for people who loves math and like to test themselves!
+> WhiteCode is an AI software, updated with time!
 
-MathManiac is a simple arithmetic game where you can put your knowledge to the maximum, this game helps you to streamline your mind, increase your concentration and at the same time practice your mathematical knowledge, complete information is requested as an introduction and at the end a complete report is given, so you can improve and get better!
+WhiteCode is an AI Chatbot created with Python, this chatbot was my first real project i made with python and it's on standby, it has integrated voice, this AI software basically will ask you some questions so he can learn from those answers, also it has functions for searching on google, wikipedia or even youtube, my goal is to take this AI and merge the software of RoboStoa with WhiteCode and then have a complete AI Robot.
 
-![](https://raw.githubusercontent.com/jorgeeldis/MathManiac/main/header.png)
+![](https://raw.githubusercontent.com/jorgeeldis/WhiteCode/main/header.png)
 
 ## Development setup
 
-No requirements needed, just open MathManiac.exe and have fun
+pip install beepy
+pip install random
+pip install webbrowser
+pip install os
+pip install time
+pip install urllib.request
+pip install urllib.parse
+pip install re
+pip install pyttsx3
+pip install datetime
+pip install wikipedia
 
 ## Meta
 
