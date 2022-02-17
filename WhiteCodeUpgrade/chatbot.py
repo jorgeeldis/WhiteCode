@@ -88,7 +88,7 @@ ChatLog = Text(base, bd=0, bg="black", height="8",
 
 ChatLog.config(state=DISABLED)
 
-scrollbar = Scrollbar(base, command=ChatLog.yview, cursor="heart")
+scrollbar = Scrollbar(base, command=ChatLog.yview)
 ChatLog['yscrollcommand'] = scrollbar.set
 
 SendButton = Button(base, font=("Courier", 12), text="Send", width="8", height="8",
