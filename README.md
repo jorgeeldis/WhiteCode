@@ -4,21 +4,26 @@
 
 WhiteCode is an AI Chatbot created with Python, this chatbot was my first real project i made with python and it's on standby, it has integrated voice, this AI software basically will ask you some questions so he can learn from those answers, also it has functions for searching on google, wikipedia or even youtube, my goal is to take this AI and merge the software of RoboStoa with WhiteCode and then have a complete AI Robot.
 
-![header](https://user-images.githubusercontent.com/73083341/129433523-8e9fb333-faaa-4f23-b7ad-7d1cb02764d3.png)
+![header](https://raw.githubusercontent.com/jorgeeldis/whitecode/main/whitecodeheader.png)
+
+## Requirements
+
+*   Python Version: **3.8.x**
+*   Operation system: **Windows 10**
 
 ## Development setup
 
-pip install beepy <br/>
-pip install random <br/>
-pip install webbrowser <br/>
-pip install os <br/>
-pip install time <br/>
-pip install urllib.request <br/>
-pip install urllib.parse <br/>
-pip install re <br/>
-pip install pyttsx3 <br/>
-pip install datetime <br/>
-pip install wikipedia <br/>
+*   pip install beepy <br/>
+*   pip install random <br/>
+*   pip install webbrowser <br/>
+*   pip install os <br/>
+*   pip install time <br/>
+*   pip install urllib.request <br/>
+*   pip install urllib.parse <br/>
+*   pip install re <br/>
+*   pip install pyttsx3 <br/>
+*   pip install datetime <br/>
+*   pip install wikipedia <br/>
 
 ## Meta
 
