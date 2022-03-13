@@ -1,4 +1,4 @@
-# WhiteCode
+# WhiteCode 🖥️
 
 > WhiteCode is an AI software, updated with time!
 
